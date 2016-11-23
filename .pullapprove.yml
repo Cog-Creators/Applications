@@ -4,7 +4,6 @@ groups:
     required: 4
     teams:
       - review-team
-      - code-review
     reset_on_push:
       enabled: false
 
