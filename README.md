@@ -6,11 +6,18 @@ The first thing you should do is fork this repository. It contains all the vital
 
 # Five Step Plan
 There is a five step plan to submitting your beta application for approval.  
-- Fork this Repo  
-- Create cogs and update your forked repo  
-- Submit a pull request when you feel your repo is ready  
-- Fix changes sent by Review and Security teams  
-- Final approval sent to 26 by Cog Creators  
+###Fork this Repo  
+![example](https://i.gyazo.com/5be2c6b3522485e2d969873f4dd262a1.png)
+###Create cogs and update your forked repo  
+![example](https://i.gyazo.com/6294e724347fbffe2ebde1a5b11b57ab.png)
+###Submit a pull request when you feel your repo is ready  
+![example](https://i.gyazo.com/c3a5a1cf89c99fa5a93539659ac70233.png)
+![example](https://i.gyazo.com/5cc7177824eba55046463f2b455b1e1f.png)
+![example](https://i.gyazo.com/d1a0381df4aee274b2791e58031979b8.png)
+###Fix changes sent by Review and Security teams  
+![example](https://i.gyazo.com/3dbbc20e6b872bcfdc323e9c81e7fced.png)
+###Final approval sent to 26 by Cog Creators  
+![example](https://avatars0.githubusercontent.com/u/6267772?v=3&s=400)  
 Yup that's it. Once you are on the beta list, you will be given your own support channel in [Red - Cog Support Server](https://discord.gg/waChvjH).
 
 
