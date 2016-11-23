@@ -1,7 +1,7 @@
 version: 2
 groups:
   code-quality:
-    required: 2
+    required: 1
     teams:
       - review-team
     reset_on_push:
