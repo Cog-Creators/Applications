@@ -66,7 +66,7 @@ Any number of reasons could result in an application denial. We don't want to fl
 Did you do any research prior to asking your question. Did you try to at least do a simple google search? Did you read the docs? Did you accurately describe your problem, and show your work? We are not here to simply provide you an answer out of convience. Everyone is much more willing to help if we can see that you are trying and are struggling and the answer is not obvious. Also if google finds the answer you owe irdumb two cookies.
 
 ###Can I advertise my repo in the server while waiting for approval to beta list?
-No. We encourage you to share your code and create meaningful discussions; however, advertising your repo for people to download your cogs in the main server defeats the purpose of being on the beta list. Having someone to help test your work is fine, and we *want* you to have people help test and give you feedback. That's what makes an ok cog a *great* cog.
+No. We encourage you to share your code and create meaningful discussions; however, advertising your repo for people to download your cogs in the main server defeats the purpose of applying to the beta list. Having someone to help test your work is fine, and we *want* you to have people help test and give you feedback. That's what makes an ok cog a *great* cog.
 
 ###Can I submit more than three cogs?
 Yes, but understand that this will significantly increase the time required to approve your repo, because we now need to review and test additional code.
