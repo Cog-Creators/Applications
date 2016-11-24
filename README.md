@@ -23,25 +23,6 @@ This organization is a community of Red Bot content creators. We are working tow
 # Getting Started
 The first thing you should do is fork the [template branch](https://github.com/Cog-Creators/Applications/tree/template) of this repository. It contains the basic structure based on these [rules](http://twentysix26.github.io/Red-Docs/red_cog_how_to_publish/), and formatting for publishing your own repository. Now you can begin work on your own cogs by experiementing and altering the examples. We have included three examples to help get you started. If you get stuck we are here to help! Please check out our [Resources](https://github.com/Cog-Creators/Applications/blob/master/README.md#resources) and [FAQ](https://github.com/Cog-Creators/Applications/blob/master/README.md#faq) sections. If you are still stuck, feel free to come chat with us in #coding on the Red Discord Server.
 
-# Five Step Plan
-There is a five step plan to submitting your beta application for approval.  
-###Fork this Repo  
-![example](https://i.gyazo.com/5be2c6b3522485e2d969873f4dd262a1.png)
-###Create cogs and update your forked repo  
-![example](https://i.gyazo.com/6294e724347fbffe2ebde1a5b11b57ab.png)
-###Submit a pull request when you feel your repo is ready  
-![example](https://i.gyazo.com/c3a5a1cf89c99fa5a93539659ac70233.png)
-![example](https://i.gyazo.com/5cc7177824eba55046463f2b455b1e1f.png)
-![example](https://i.gyazo.com/d1a0381df4aee274b2791e58031979b8.png)
-###Fix changes sent by Review and Security teams  
-![example](https://i.gyazo.com/3dbbc20e6b872bcfdc323e9c81e7fced.png)
-###Final approval sent to 26 by Cog Creators   
-Yup that's it. Once you are on the beta list, you will be given your own support channel in [Red - Cog Support Server](https://discord.gg/waChvjH).
-
-
-
-Should you get stuck we are here to help. Please check out our [Resources](https://github.com/Cog-Creators/Applications/blob/master/README.md#resources) and [FAQ](https://github.com/Cog-Creators/Applications/blob/master/README.md#faq) sections for more information on this
-
 # Designing Your Repository
 Your readme will design a page just like the one you are reading right now! This page should contain information about your repository, requirements, installation insructions, and how to contact you if users recieve issues with your cogs. Fork [template](https://github.com/Cog-Creators/Applications/tree/template) to create a replicaRemember, this is your repository! It should reflect who you are as a cog creator, but also contain vital information to your community.  
 
@@ -103,6 +84,21 @@ Once you are on the beta list your repo will be added to the list of content cre
 - Only 1 .py per folder! As example see this [repository]
 - Properly disclose if your cog displays NSFW content
 - People who worked on a cog must be properly credited
+
+# Five Step Plan
+There is a five step plan to submitting your beta application for approval.  
+###Fork this Repo  
+![example](https://i.gyazo.com/5be2c6b3522485e2d969873f4dd262a1.png)
+###Create cogs and update your forked repo  
+![example](https://i.gyazo.com/6294e724347fbffe2ebde1a5b11b57ab.png)
+###Submit a pull request when you feel your repo is ready  
+![example](https://i.gyazo.com/c3a5a1cf89c99fa5a93539659ac70233.png)
+![example](https://i.gyazo.com/5cc7177824eba55046463f2b455b1e1f.png)
+![example](https://i.gyazo.com/d1a0381df4aee274b2791e58031979b8.png)
+###Fix changes sent by Review and Security teams  
+![example](https://i.gyazo.com/3dbbc20e6b872bcfdc323e9c81e7fced.png)
+###Final approval sent to 26 by Cog Creators   
+Yup that's it. Once you are on the beta list, you will be given your own support channel in [Red - Cog Support Server](https://discord.gg/waChvjH).Should you get stuck we are here to help. Please check out our [Resources](https://github.com/Cog-Creators/Applications/blob/master/README.md#resources) and [FAQ](https://github.com/Cog-Creators/Applications/blob/master/README.md#faq) sections for more information on this
 
 # FAQ
 ###I submitted my application a whole hour ago! Why hasn't someone said anything???  
