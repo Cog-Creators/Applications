@@ -9,8 +9,9 @@ This organization is a community of Red Bot content creators. We are working tow
   - [Team Reviews](https://github.com/Cog-Creators/Applications/blob/master/README.md#teamreviews)
   - [Making Changes](https://github.com/Cog-Creators/Applications/blob/master/README.md#making-changes)
   - [Final Approval](https://github.com/Cog-Creators/Applications/blob/master/README.md#final-approval)
-- [Beta & Approved Lists](https://github.com/Cog-Creators/Applications/blob/master/README.md#faq)
-- [FAQ](https://github.com/Cog-Creators/Applications/blob/master/README.md#)
+- [Approved List](https://github.com/Cog-Creators/Applications/blob/master/README.md#approved-list)
+- [Beta List](https://github.com/Cog-Creators/Applications/blob/master/README.md#beta-list)
+- [FAQ](https://github.com/Cog-Creators/Applications/blob/master/README.md#faq)
 - [Resources](https://github.com/Cog-Creators/Applications/blob/master/README.md#resources)
 
 # Getting Started
@@ -28,8 +29,7 @@ There is a five step plan to submitting your beta application for approval.
 ![example](https://i.gyazo.com/d1a0381df4aee274b2791e58031979b8.png)
 ###Fix changes sent by Review and Security teams  
 ![example](https://i.gyazo.com/3dbbc20e6b872bcfdc323e9c81e7fced.png)
-###Final approval sent to 26 by Cog Creators  
-![example](https://avatars0.githubusercontent.com/u/6267772?v=3&s=400)  
+###Final approval sent to 26 by Cog Creators   
 Yup that's it. Once you are on the beta list, you will be given your own support channel in [Red - Cog Support Server](https://discord.gg/waChvjH).
 
 
@@ -61,6 +61,10 @@ You may have an in-line comment which will ask you to change certain parts of yo
 Finally once both teams have decided that the application passes inspection, it will be reviewed by Twentysix. The whole point of this process is for senior Cog Creators to weed out bad applications, and strengthen weak applications with good potential. Twentysix judges not just the repository, but the creator as well. How well did you respond to criticism? Did your creativity bring something refreshing to the bot? Are you quick to adapt and make changes? If there are good awnsers to these questions, then you will likely be approved. Welcome to the fold.
 # Approved List
 Submission to this list requires that you are at least on the beta list and you are in good standing with the community. This is more than just a list for your repo. You are joining the ranks of Cog Creators. You will be expected to help jr. Cog Creators in the same way we helped you. Your repo should be in tip-top shape and bring unique features to the community. There will be a much stricter review process for these types of applications, so please be patient when waiting for approval. Once approved you will be granted the Cog Creator role in both Red servers, and will be allowed to submit cogs for weekly spotlights on the main server.
+# Beta List
+Once you are on the beta list your repo will be added to the list of content creators on the Red Bot Docs. While you are on this list we encourage you to continue generating content and working with others. From here you can start growing your own little sub community dedicated to your repository. Beta list members will recieve their own support channel in the Cog Support server.
+# Approved List
+The Approved List are members who have garnered the trust of Twentysix and staff, and has proven to be a helpful in mentoring and growing the community through content creation. The prerequistes go beyond having clean code and unique cogs. Applications to the approved list require you to first become a member of the beta list. This allows us to monitor and guage your dedication and resourcefulness. Applications to this list will have much stricter scrutiny than pervious listings. Members of the approved list will be granted the cog creator title in the Red Bot server, ability to submit cogs for spotlights, and will help in the application process for the Beta List.  
 # FAQ
 ###I submitted my application a whole hour ago! Why hasn't someone said anything???  
 Whoa. Slow down there cowboy. We all have lives, and do this in our spare time. Give us sometime. Impatience will not expedite the review process.
