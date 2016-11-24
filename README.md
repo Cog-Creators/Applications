@@ -54,7 +54,7 @@ Description:
 
 Deviation from this format will only slow down your application process. 
 ### Team Reviews
-We have two teams that will review your code. A review team, which will mark things for you to clean-up in your code, in your repository, and checks if everything works. The second team is a security team that will look to make sure your code does not contain harmful vulnerabilities or contain malicious content meant to harm other users. Once both teams have given their seals of approval, Twentysix will conduct a final review of your application to determine if it will be added to the beta list.
+We have two teams that will review your work. A compliance team, which will test your code to see if it works, make sure you have the correct formatting, redundancies, citing sources, and checking your info.json files. The second team is a code-review team that will check to make sure your code does not contain harmful vulnerabilities or contain malicious content meant to harm other users. Note that changes to your code will reset all approvals for the code-review team, but not for compliance. Once both teams have given their seals of approval, Twentysix will conduct a final review of your application to determine if it will be added to the beta list.
 ### Making Changes
 You may have an in-line comment which will ask you to change certain parts of your code. You may also have a comment on the PR from a team member asking you to change large parts, or ask for clarification. Please respond to these changes swiftly so each team can continue to review your code.
 # Final Approval
