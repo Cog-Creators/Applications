@@ -1,5 +1,17 @@
-# Applications
-A repository designed to help jr. Cog Creators apply for beta and approved list membership. 
+# Red Bot Cog Creators
+This organization is a community of Red Bot content creators. We are working towards mentoring and helping those who wish to contribute to the Red Bot project created by TwentySix. This repository will serve as a gateway and communication hub inconjunction with the Red - Discord Bot and Red - Cog Support discord servers. Please read the information below to get started on the process of becoming a cog creator.
+
+# Table of Contents
+- [Intro](https://github.com/Cog-Creators/Applications/blob/master/README.md#intro)
+- [Designing Your Repository](https://github.com/Cog-Creators/Applications/blob/master/README.md#designing-your-repository)
+- [Publishing](https://github.com/Cog-Creators/Applications/blob/master/README.md#publishing)
+- [Making the Pull Request](https://github.com/Cog-Creators/Applications/blob/master/README.md#creating-the-pull-request)
+  - [Team Reviews](https://github.com/Cog-Creators/Applications/blob/master/README.md#teamreviews)
+  - [Making Changes](https://github.com/Cog-Creators/Applications/blob/master/README.md#making-changes)
+  - [Final Approval](https://github.com/Cog-Creators/Applications/blob/master/README.md#final-approval)
+- [Beta & Approved Lists](https://github.com/Cog-Creators/Applications/blob/master/README.md#faq)
+- [FAQ](https://github.com/Cog-Creators/Applications/blob/master/README.md#)
+- [Resources](https://github.com/Cog-Creators/Applications/blob/master/README.md#resources)
 
 # Getting Started
 The first thing you should do is fork this repository. It contains all the vital information, [rules](http://twentysix26.github.io/Red-Docs/red_cog_how_to_publish/), and formatting for publishing your own repository. Now you can begin work on your own cogs by experiementing and altering the examples. We have included three examples to help get you started. If you get stuck we are here to help! Please check out our [Resources](https://github.com/Cog-Creators/Applications/blob/master/README.md#resources) and [FAQ](https://github.com/Cog-Creators/Applications/blob/master/README.md#faq) sections. If you are still stuck, feel free to come chat with us in #coding on the Red Discord Server.
@@ -28,7 +40,7 @@ Should you get stuck we are here to help. Please check out our [Resources](https
 Your readme will design a page just like the one you are reading right now! This page should contain information about your repository, requirements, installation insructions, and how to contact you if users recieve issues with your cogs. Remember, this is your repository! It should reflect who you are as a cog creator, but also contain vital information to your community.
 
 You are not required to have a wiki page, but as your creations grow in complexity they may need their own dedicated page. You can create a wiki page on your repository at anytime, but is not subject to scrutiny for beta list applications.  
-# Ready for Publishing
+# Publishing
 Once you feel that your cogs meet the requirements for applying to beta list(See approved applications for approved list) create a pull request to this repo from your forked one. This allows us to check all the changes, and conduct code reviews for your submitted cogs.
 ### Creating the Pull Request
 The pull request comment body should contain this format:  
