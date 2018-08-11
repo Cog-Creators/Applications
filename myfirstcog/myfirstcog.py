@@ -10,7 +10,3 @@ class MyFirstCog:
         """Description of myfirstcom visible with [p]help myfirstcom"""
         # Your code will go here
         await ctx.send("My first cog!")
-
-
-def setup(bot):
-    bot.add_cog(MyFirstCog(bot))
