@@ -1,11 +1,8 @@
 {
-    "author" : ["Author", "Co-Author (optional)", "Co-Author 2 (optional)"],
-    "install_msg" : "A message you wish to display to users after they sucessfully install your cog.",
-    "name" : "Name of your cog.",
-    "short" : "A short description. Displayed in the `[p]cog list` command.",
-    "requirements" : ["Example library", "Example 2", "Example 3"],
-    "description" : "Full description of your cog. Displayed on the Red Portal and with `[p]cog info`",
-    "permissions" : ["List of Bot permissions required"],
-    "tags" : ["List of search tags for the Red portal"]
+    "author" : ["yourname (discord#identifer)"],
+    "install_msg" : "Message the user will recieve when they agree to install your repository.",
+    "name" : "Name of your repository.",
+    "short" : "Shot description of your repo.",
+    "description" : "Long description about your repository.",
+    "tags" : ["List of search tags on red portal for your repo."]
 }
-
