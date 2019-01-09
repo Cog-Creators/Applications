@@ -2,7 +2,7 @@ from redbot.core import commands
 
 
 # Classname should be CamelCase and the same spelling as the folder
-class MySecondCog:
+class MySecondCog(commands.Cog):
     """Description of the cog visible with [p]help MySecondCog"""
 
     @commands.command()
