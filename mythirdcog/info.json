@@ -1,0 +1,10 @@
+{
+    "author" : ["Author", "Co-Author (optional)", "Co-Author 2 (optional)"],
+    "install_msg" : "A message you wish to display to users after they sucessfully install your cog.",
+    "name" : "Name of your cog.",
+    "short" : "A short description. Displayed in the `[p]cog list` command.",
+    "requirements" : ["Example library", "Example 2", "Example 3"],
+    "description" : "Full description of your cog. Displayed on the Red Portal and with `[p]cog info`",
+    "permissions" : ["List of Bot permissions required"],
+    "tags" : ["List of search tags for the Red portal"]
+}
